@@ -5,10 +5,10 @@
 
 Some repos to add skills for claude code:
 
-** A list of most top ranked skills on May/2026**
+1) A list of most top ranked skills on May/2026
 https://github.com/mbastida43/book-to-skill
 
-** Website Skill . sh**
+2)  Website Skill . sh
 https://www.skills.sh/
 
 
