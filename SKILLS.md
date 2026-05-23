@@ -12,6 +12,8 @@ https://github.com/mbastida43/book-to-skill
 https://www.skills.sh/
 
 
+3) Sample Well Architected Skill and Steering
+https://github.com/mbastida43/sample-well-architected-skills-and-steering
 
 ## License
 
