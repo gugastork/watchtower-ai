@@ -11,6 +11,9 @@ https://github.com/mbastida43/book-to-skill
 2)  Website Skill . sh
 https://www.skills.sh/
 
+3) Top 10 claude code skills
+https://www.welcomedeveloper.com/posts/the-10-claude-code-skills/
+
 
 
 ## License
