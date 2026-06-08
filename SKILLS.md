@@ -14,7 +14,8 @@ https://www.skills.sh/
 3) Top 10 claude code skills
 https://www.welcomedeveloper.com/posts/the-10-claude-code-skills/
 
-
+4) 100 Claude Skills. These Are The Best
+https://www.welcomedeveloper.com/posts/the-10-claude-code-skills/
 
 ## License
 
