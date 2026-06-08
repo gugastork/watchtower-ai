@@ -24,6 +24,10 @@ https://www.welcomedeveloper.com/posts/the-10-claude-code-skills/
 
 https://www.welcomedeveloper.com/posts/the-10-claude-code-skills/
 
+5) Vídeo no Youtube, Entre 90 mil skills do Claude Code essas 10 são lendárias
+
+https://youtu.be/J3JyVL6Jld0?si=THposc939DRSVFUG
+
 ## License
 
 [MIT License](LICENSE)
