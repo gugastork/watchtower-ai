@@ -21,6 +21,7 @@ This repository exists to fix that. It captures, organizes and structures the be
 | [`case-studies/`](case-studies/) | Real experiments with results — what worked, what failed, why |
 | [`summaries/`](summaries/) | Distilled insights from papers, tutorials and community discussions |
 | [`resources/`](resources/) | Curated books, repos and articles worth your time |
+| [`tutorials/`](tutorials/) | Tutorials already used sucessfully |
 
 ---
 
