@@ -3,7 +3,7 @@
 
 ## Repositories for Claude Code Skills
 
-Some repos to add skills for claude code:
+Some repositories, youtube videos, medium article to add skills for claude code:
 
 1) A list of most top ranked skills on May/2026:
 
