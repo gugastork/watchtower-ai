@@ -1,6 +1,6 @@
 # Tutorials
 
-In this section we will have tutorials in PDF format and link with repositories that will help about understanding using Claude with another LLMs.
+In this section we will have tutorials in PDF format and link with repositories that will help about understanding using Claude with another LLMs and tips tp enhance the productivity
 
 ## Claude with Ollama
 
